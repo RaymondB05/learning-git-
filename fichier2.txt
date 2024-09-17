@@ -5,6 +5,12 @@ this is main function
 
 - Cette ligne doit etre la premiere ( ajouté au main )
 
+- J'ai ajouté une ligne à partir de VsCode.
+
+
 -Cette ligne doit être la derniere ( ajouté au main ) 
 
 }
+
+
+
