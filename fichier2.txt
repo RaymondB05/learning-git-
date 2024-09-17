@@ -1,1 +1,10 @@
-function 1
+funpublic main () {
+
+this is main function 
+
+
+- Cette ligne doit etre la premiere ( ajouté au main )
+
+-Cette ligne doit être la derniere ( ajouté au main ) 
+
+}
